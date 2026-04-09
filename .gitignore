@@ -1,0 +1,35 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+
+.ipynb_checkpoints
+
+# Virtual Environment
+
+venv/
+env/
+
+# Data files
+
+data/
+*.csv
+*.xlsx
+
+# Model files
+
+*.pkl
+*.joblib
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
